@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.idea/
+libjavaserialize.egg-info/
+dist/
+build/
